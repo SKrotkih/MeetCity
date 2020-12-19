@@ -1,7 +1,7 @@
-7sddddd77777. DEV
+7sddddd7hjhjccc7777. DEV
 Assss
 
+222
 
-
-
-
+git push origin --delete dev
+git push origin --delete serhii/devs
